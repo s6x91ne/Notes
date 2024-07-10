@@ -1,6 +1,7 @@
 ---
 date: 2024-07-09
 ---
+## 源视频：[Git 和 GitHub 零基礎快速上手](https://www.youtube.com/watch?v=FKXRiAiQFiY&t=620s)
 ### 建立仓库
 #### 设置用户名
 ```
@@ -39,7 +40,41 @@ git log
 ```
 git log --oneline
 ```
+
+## 源视频[# GeekHour教程 # Git教程07](https://www.youtube.com/watch?v=9oV9PVoeJX4&list=PLDBEQHWAyt9FbN7TANIXlUvtRhdoBCEQ5&index=7)
+
 ### 比较文件
 ```
 git diff
 ```
+- git diff默认什么都不加的话，比较的是工作区和暂存区的差异
+
+```
+git diff head
+```
+- 比较工作区和版本库之间的差异
+
+```
+git diff --cached
+```
+- 比较暂存区和版本库之间的差异
+
+```
+git diff <提交ID1> <提交ID2>
+```
+- 比较两个版本之间的差异
+
+```
+git diff HEAD~ HEAD
+```
+- 比较最近一次提交和上一次提交的差异
+
+```
+git diff HEAD~2 HEAD
+```
+- 比较最近一次提交和上上次提交的差异
+
+```
+git diff HEAD~2 HEAD <filename>
+```
+- 比较最近一次提交和上次提交的差异，并且只比较filename的差异，其他文件的差异不会比较

@@ -11,8 +11,12 @@
             "id": "665cfdc6ff2650b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "git/2024-07-09/git初学.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git/2024-07-09/git初学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "git/2024-07-09/git初学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "git/2024-07-09/git初学.md"
+              }
             }
           }
         ],
@@ -140,9 +148,9 @@
   },
   "active": "665cfdc6ff2650b2",
   "lastOpenFiles": [
-    "Promierer Pro/24.6.30/Learning 2.md",
     "Promierer Pro/24.6.29/Learning 1.md",
     "git/2024-07-09/git初学.md",
+    "Promierer Pro/24.6.30/Learning 2.md",
     "Obsidian教程/24.6.30/Markdown.md",
     "Promierer Pro/24.7.6/Learning 4.md",
     "git/2024-07-09/未命名",
