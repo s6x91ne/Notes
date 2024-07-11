@@ -1,7 +1,7 @@
 ---
 date: 2024-07-01
 ---
- - 教程源：[基礎教學 03](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
+## 教程源：[基礎教學 03](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
 
 ##### 影片序列
 - 在素材库中 新建-->序列，选择1080p30，如下图：

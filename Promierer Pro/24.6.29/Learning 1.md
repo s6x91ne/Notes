@@ -1,7 +1,7 @@
 ---
 date: 2024-06-29
 ---
-- 教程源：[基礎教學 01](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
+## 教程源：[基礎教學 01](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
 
 ### 准备工作:
 - 需要下载视频素材。
