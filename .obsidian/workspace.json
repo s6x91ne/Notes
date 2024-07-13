@@ -11,13 +11,26 @@
             "id": "665cfdc6ff2650b2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Promierer Pro/24.7.11/Learning 5 校色&调色.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33432149f41b00bc",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Promierer Pro/24.7.11/Pasted image 20240711193657.png"
+                "file": "Promierer Pro/24.7.11/Pasted image 20240713095204.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promierer Pro/24.7.11/Pasted image 20240711193657.png",
+                "file": "Promierer Pro/24.7.11/Pasted image 20240713095204.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Promierer Pro/24.7.11/Pasted image 20240711193657.png",
+                "file": "Promierer Pro/24.7.11/Pasted image 20240713095204.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Promierer Pro/24.7.11/Pasted image 20240711193657.png"
+                "file": "Promierer Pro/24.7.11/Pasted image 20240713095204.png"
               }
             }
           }
@@ -147,23 +160,28 @@
   "active": "d7a44cc6b5d168ad",
   "lastOpenFiles": [
     "Promierer Pro/24.7.11/Learning 5 校色&调色.md",
-    "Promierer Pro/24.7.11/Pasted image 20240711201752.png",
-    "Promierer Pro/24.7.11/Pasted image 20240711194824.png",
-    "Promierer Pro/24.7.11/Pasted image 20240711194759.png",
-    "Promierer Pro/24.7.11/Pasted image 20240711193657.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713180837.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713175835.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713175226.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713172942.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713123222.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713120645.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713122110.png",
+    "Obsidian教程/24.6.30/Markdown.md",
+    "[[[[Learning.md",
+    "Obsidian教程/24.6.27/视频笔记.md",
+    "Promierer Pro/24.7.11/Pasted image 20240713105941.png",
+    "Pasted image 20240713105915.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713104142.png",
     "欢迎.md",
-    "Pasted image 20240711193539.png",
-    "Pasted image 20240711193438.png",
     "Promierer Pro/24.7.6/Learning 4.md",
     "Promierer Pro/24.6.29/Learning 1.md",
     "Promierer Pro/24.6.30/Learning 2.md",
     "Promierer Pro/24.7.1/Learning 3.md",
     "Promierer Pro/24.7.11",
     "git/2024-07-09/git初学.md",
-    "Obsidian教程/24.6.30/Markdown.md",
     "git/2024-07-09/未命名",
     "git/2024-07-09",
-    "git",
-    "Obsidian教程/24.6.27/视频笔记.md"
+    "git"
   ]
 }
