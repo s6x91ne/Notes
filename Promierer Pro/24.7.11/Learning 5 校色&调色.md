@@ -1,7 +1,7 @@
 ---
 date: 2024-07-11
 ---
-## 教程源：[基礎教學 04](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
+## 教程源：[基礎教學 05](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
 ## 校色
 ### 开启颜色和范围面板
  - 拖动01~08视频素材到时间轴

@@ -11,11 +11,9 @@
             "id": "33432149f41b00bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
-                "mode": "source",
-                "source": false
+                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
+                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
+                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md"
+                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png"
               }
             }
           }
@@ -148,11 +146,15 @@
   },
   "active": "33432149f41b00bc",
   "lastOpenFiles": [
-    "Promierer Pro/24.7.13/Pasted image 20240713184915.png",
     "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
-    "Promierer Pro/24.7.13/Pasted image 20240713202301.png",
-    "Promierer Pro/24.7.11/Learning 5 校色&调色.md",
+    "Promierer Pro/24.7.13/Pasted image 20240714182024.png",
+    "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
     "Promierer Pro/24.7.1/快门角度数值.md",
+    "Promierer Pro/24.7.11/Learning 5 校色&调色.md",
+    "git/2021-07-13/git合并多个commit.md",
+    "git/2021-07-13",
+    "Promierer Pro/24.7.13/Pasted image 20240713184915.png",
+    "Promierer Pro/24.7.13/Pasted image 20240713202301.png",
     "Promierer Pro/24.7.1/Learning 3.md",
     "Promierer Pro/24.7.13/Pasted image 20240713185330.png",
     "Pasted image 20240713184833.png",
@@ -161,8 +163,6 @@
     "Promierer Pro/24.7.11/Pasted image 20240713175835.png",
     "Promierer Pro/24.7.11/Pasted image 20240713175226.png",
     "Promierer Pro/24.7.11/Pasted image 20240713172942.png",
-    "Promierer Pro/24.7.11/Pasted image 20240713123222.png",
-    "Promierer Pro/24.7.11/Pasted image 20240713120645.png",
     "Obsidian教程/24.6.30/Markdown.md",
     "[[[[Learning.md",
     "Obsidian教程/24.6.27/视频笔记.md",
