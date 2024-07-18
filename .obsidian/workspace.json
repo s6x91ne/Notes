@@ -11,13 +11,24 @@
             "id": "33432149f41b00bc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png"
+                "file": "git/git解决终端输出乱码.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "4e67816a0b909f50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Promierer Pro/24.7.13/Pasted image 20240714180453.png"
-              }
+              "state": {}
             }
           }
         ],
@@ -144,11 +151,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33432149f41b00bc",
+  "active": "4e67816a0b909f50",
   "lastOpenFiles": [
+    "git/git解决终端输出乱码.md",
+    "2024-07-18.md",
+    "git/git合并多个commit.md",
+    "git/git初学.md",
     "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
-    "Promierer Pro/24.7.13/Pasted image 20240714182024.png",
     "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
+    "Promierer Pro/24.7.13/Pasted image 20240714182024.png",
     "Promierer Pro/24.7.1/快门角度数值.md",
     "Promierer Pro/24.7.11/Learning 5 校色&调色.md",
     "git/2021-07-13/git合并多个commit.md",
@@ -171,7 +182,6 @@
     "Promierer Pro/24.6.29/Learning 1.md",
     "Promierer Pro/24.6.30/Learning 2.md",
     "Promierer Pro/24.7.11",
-    "git/2024-07-09/git初学.md",
     "git/2024-07-09/未命名",
     "git/2024-07-09",
     "git"
