@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git解决终端输出乱码.md",
+                "file": "操作系统/Rufus4.4 制作win11安装 u盘.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e67816a0b909f50",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统/Rufus4.4 制作win11安装 u盘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统/Rufus4.4 制作win11安装 u盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统/Rufus4.4 制作win11安装 u盘.md"
+              }
             }
           }
         ],
@@ -151,12 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4e67816a0b909f50",
+  "active": "33432149f41b00bc",
   "lastOpenFiles": [
     "git/git解决终端输出乱码.md",
-    "2024-07-18.md",
-    "git/git合并多个commit.md",
+    "操作系统/Rufus4.4 制作win11安装 u盘.md",
+    "操作系统",
+    "git/git删除文件.md",
     "git/git初学.md",
+    "git/git合并多个commit.md",
+    "2024-07-18.md",
     "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
     "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
     "Promierer Pro/24.7.13/Pasted image 20240714182024.png",
