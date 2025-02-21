@@ -1,7 +1,7 @@
 ---
 date: 2024-06-30
 ---
-- 教程源：[基礎教學 02](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
+## 教程源：[基礎教學 02](https://www.youtube.com/watch?v=EM--R38YfJw&list=PL7enJ2-v6SPlM8XV2Pg2wlHK1GYNe7EAL)
 ##### 录制音频
 1. 将麦克风链接至电脑
 2. 选择 编辑-->音频硬件-->默认输入

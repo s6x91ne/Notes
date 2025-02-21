@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "13770b4f4ecd36b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f116a9451cb17752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ae7bfcb567ae72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6367b9e083fe60fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7b52cea84e86d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f18770f1fba32a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c709fb34697ab9f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c077b52016495aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d74cdd3335e57dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad00bdb0afe11d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7451eaa158d872",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "defb8c41698926fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a8acb37a339bd10c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "845e8e0ece94e0aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "80ae7bfcb567ae72",
+  "lastOpenFiles": [
+    "607所/综合处理模块/报价/报价.md",
+    "607所/综合处理模块/手册/手册.md",
+    "607所/综合处理模块/手册/HRW5332PM2C型可调负输出稳压器.pdf",
+    "~$综合处理板报价 2 24.07.01.xlsx",
+    "综合处理板报价 2 24.07.01.xlsx",
+    "Obsidian教程/视频笔记.md",
+    "607所/综合处理模块/报价/综合处理板报价 2 24.07.01.xlsx",
+    "607所/综合处理模块/报价",
+    "607所/综合处理模块/手册",
+    "607所",
+    "607所/综合处理模块",
+    "2024-06-26.md",
+    "欢迎.md",
+    "Obsidian教程/视频笔记.md.baiduyun.uploading.cfg",
+    "Obsidian教程",
+    "创建链接.md"
+  ]
+}

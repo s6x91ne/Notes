@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "20b48ed5eaa96e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d944a3943bed0cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33432149f41b00bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高项/ppt上没有的重点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "778511c80509d6d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0096d556cf8d4cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a44cc6b5d168ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f8ab9e6d5fae2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a824bb1bd9010488",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19677cf001b3fa13",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35d63d8c58f7f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d581fbb200d37ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高项/ppt上没有的重点.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16c1fab7a55ccb97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "高项/ppt上没有的重点.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "658740ee4f06a605",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33a92f04d324d4d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高项/ppt上没有的重点.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "33432149f41b00bc",
+  "lastOpenFiles": [
+    "赚取人生的第一个100W/3. 每日计划.md",
+    "高项/ppt上没有的重点.md",
+    "高项",
+    "篮球训练/德文30天计划/基础训练.md",
+    "篮球训练/德文30天计划",
+    "篮球训练",
+    "字体/2024-07-23.md",
+    "字体",
+    "README.md",
+    "欢迎.md",
+    "赚取人生的第一个100W/1. 目标.md",
+    "赚取人生的第一个100W/2. 重大的年度目标.md",
+    "操作系统/Rufus4.4 制作win11安装 u盘.md",
+    "目标/1..md",
+    "赚取人生的第一个100W",
+    "赚取人生的第一个100W/1. 开始思考.md",
+    "目标",
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "git/git解决终端输出乱码.md",
+    "操作系统",
+    "git/git删除文件.md",
+    "git/git初学.md",
+    "git/git合并多个commit.md",
+    "2024-07-18.md",
+    "Promierer Pro/24.7.13/Learning 6 Sam Kolder风格转场.md",
+    "Promierer Pro/24.7.13/Pasted image 20240714180453.png",
+    "Promierer Pro/24.7.13/Pasted image 20240714182024.png",
+    "Promierer Pro/24.7.1/快门角度数值.md",
+    "Promierer Pro/24.7.11/Learning 5 校色&调色.md",
+    "git/2021-07-13/git合并多个commit.md",
+    "git/2021-07-13",
+    "Promierer Pro/24.7.13/Pasted image 20240713184915.png",
+    "Promierer Pro/24.7.13/Pasted image 20240713202301.png",
+    "Promierer Pro/24.7.1/Learning 3.md",
+    "Promierer Pro/24.7.13/Pasted image 20240713185330.png",
+    "Pasted image 20240713184833.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713180837.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713175835.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713175226.png",
+    "Promierer Pro/24.7.11/Pasted image 20240713172942.png",
+    "Obsidian教程/24.6.30/Markdown.md",
+    "[[[[Learning.md",
+    "Obsidian教程/24.6.27/视频笔记.md",
+    "Promierer Pro/24.7.6/Learning 4.md",
+    "Promierer Pro/24.6.29/Learning 1.md"
+  ]
+}
